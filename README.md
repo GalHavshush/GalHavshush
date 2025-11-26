@@ -1,8 +1,6 @@
 # Gal Havshush  
 
-[![AI](https://img.shields.io/badge/AI-black)](#)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-red)](#)
-[![Data Science](https://img.shields.io/badge/Data%20Science-darkred)](#)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=600&color=FFFFFF&width=700&lines=AI+%7C+Machine+Learning+%7C+Data+Science;Python+Developer;Computer+Science+Graduate)
 
 🎓 Computer Science Graduate  
 🤖 Focused on Data Science, Machine Learning and Deep Learning  
